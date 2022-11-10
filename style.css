@@ -1,0 +1,14 @@
+<style>
+.progress {
+    width:230px;
+    height:23px;
+    position:relative;
+    background-color: black;
+}
+#bar {
+    background-color: mediumblue;
+    width:0;
+    height:23px;
+    position:absolute;
+}
+</style>
